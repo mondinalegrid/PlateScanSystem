@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PlateScan</string>
+    <string name="description_info">Info</string>
+    <string name="picture">Picture</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
+            you can display camera preview and take pictures.
+
+
+        ]]>
+    </string>
+    <string name="title_activity_image_process">ImageProcessActivity</string>
+    <string name="plateimage">PlateImage</string>
+    <string name="processing">Processing</string>
+    <string name="cpassReg">Confirm Password</string>
+    <string name="already_signed_in_login">Already Signed In? Login</string>
+    <string name="register">Register</string>
+    <string name="passwordReg">Password</string>
+    <string name="emailReg">Email</string>
+    <string name="name">Name</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="emailLogin">Email</string>
+    <string name="passwordLogin">Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="signout">Sign Out</string>
+    <string name="plate_number_image">Plate Number Image</string>
+    <string name="plate_number">Plate Number</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="lto_apprehension">LTO Apprehension</string>
+    <string name="year">Year</string>
+    <string name="registered_last">Registered Last</string>
+    <string name="datetime">dateTime</string>
+    <string name="plateno">plateNo</string>
+    <string name="no_history_yet">No History Yet</string>
+    <string name="test_button">Test Button</string>
+    <string name="history">History</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="forgot_password_msg">We just need your registered Email to send you password reset instructions.</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[< Back]]></string>
+    <string name="deletebutton">deleteButton</string>
+    <string name="platelogo">plateLogo</string>
+    <string name="back_button">back button</string>
+    <string name="platescan">PlateScan</string>
+    <string name="i_am_verified">I am verified</string>
+    <string name="verification_needed">Verification Needed</string>
+    <string name="verifying_your_account_will_let_you_access_the_cool_features_of_the_application">Verifying your account will let you access the cool features of the application.</string>
+    <string name="it_s_quick_easy_and_totally_secure">It\'s quick, easy and totally secure.</string>
+    <string name="i_did_not_recieve_a_email">I did not recieve a email</string>
+    <string name="verifydesign">VerifyDesign</string>
+    <string name="lto_alarm">LTO Alarm</string>
+    <string name="body_type">Body Type</string>
+    <string name="color">Color</string>
+</resources>
